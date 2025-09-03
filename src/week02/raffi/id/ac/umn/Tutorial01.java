@@ -14,7 +14,7 @@ public class Tutorial01 {
 		String[] matkulIS = {"Sistem Database", "Administrasi Database"};
 	
 		System.out.println("Pilih Kategori Mata Kuliah");
-		System.out.println("1.Informatika\n2.Computer Engineering\n3.Informative System");
+		System.out.println("1.informatika\n2.Computer Engineering\n3.Informative System");
 		int input=scanner.nextInt();
 	
 		switch(input) {
