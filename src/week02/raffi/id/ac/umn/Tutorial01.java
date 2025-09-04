@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class Tutorial01 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		Scanner scanner= new Scanner(System.in);
 		String[] matkulIF = {"Matematika Diskrit", "Dasar-Dasar Pemrograman", 
 				"Pemrograman Berorientasi Objek" };
